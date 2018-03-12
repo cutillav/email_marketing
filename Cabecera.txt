@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+ <head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Demystifying Email Design</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+</head>
+
+
+  <body style="margin: 0; padding: 0;" bgcolor="#F2F2F2">
+
+   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+<!--Cabecera-->
+  <tr>
+
+   <td>
+
+     <table align="center" border="0" cellpadding="0" cellspacing="0" width="650" bgcolor="#F2F2F2">
+       <tr>
+              <td align="center" bgcolor="#F2F2F2" style="padding: 0px 0 0px 0;" >
+
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+                       <tr>
+
+                          <td width="260" valign="top">
+
+                           <img src="https://i.imgur.com/JOBnrCL.png"  width="250" height="68" style="display: block;" align="left" />
+
+                          </td>
+
+                          <td style="font-size: 0; line-height: 0;" width="20">
+
+                           &nbsp;
+
+                          </td>
+
+                          <td width="260" valign="middle"  align="right"  style="color: black; font-family: Arial, sans-serif; font-size: 14px;">
+
+                           NOVEDADES MARZO 2018
+
+                          </td>
+
+                       </tr>
+
+                      </table>
+              </td>
+
+      </tr>
+
+
+
+       <tr>
+             <table border="0" cellpadding="0" cellspacing="0" width="650px" bgcolor="#00858C" height="70" align="center">
+
+              <tr>
+
+                <td width="700px" style="color: #ffffff; font-family: Arial, sans-serif; font-size: 18px; padding: 0 10px 0 0;" >
+
+                  A la Atención de Hugo Padín
+
+                </td>
+
+              </tr>
+
+              <tr>
+
+                <td width="700px"  style="color: #ffffff; font-family: Arial, sans-serif; font-size: 14px;">
+
+                  Aqui puede descubrir las últimas novedades del Departamento BICC.
+
+                </td>
+
+              </tr>
+
+            </table>
+
+      </tr>
+<!--Fin de la Cabecera-->
