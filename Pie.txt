@@ -1,29 +1,14 @@
- <tr>
+ <!--Final De la Caja-->
+      <tr>
 
-              <td bgcolor="#ee4c50">
+        <td bgcolor="#ee4c50">
+        </td>
 
-
-
-              </td>
-
-        </tr>
-
-
-
-</table>
-
-   </td>
-
-  </tr>
+      </tr>
 
    </table>
 
   </body>
-  <td bgcolor="#ee4c50" style="padding: 30px 30px 30px 30px;">
 
-
-
-</td>
 
 </html>
-
